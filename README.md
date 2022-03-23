@@ -1,6 +1,6 @@
 # Cosigned
 
-** THE CODE IN THIS REPO HAS BEEN MOVED TO THE OFFICIAL [COSIGN REPO](github.com/sigstore/cosign) **
+** THE CODE IN THIS REPO HAS BEEN MOVED TO THE OFFICIAL [COSIGN REPO](https://github.com/sigstore/cosign) **
 
 ** THIS IS ARCHIVED **
 
